@@ -1,3 +1,4 @@
 1. The product owner sets drection for the team, handles release management and  stakeholder management (in Agile Methodology).
 2. A Scrum Master is responsible for all Scrum related tasks (like Jira tooling, facilitating sprints and meetings, etc.) while a Product Owner sets direction for the team.
 3. One type of meeting in sprints is the 'Standup Meeting', which are short meetings that happen on everyday of the sprint. Team members discuss work completed, work plan for the day and any blockers. The 'Sprint Retrospective Meeting' is another type of meeting that occur at the end of every sprint to discuss complete work, move incomplete work to backlog and to close out the sprint.
+4. EPIC: Its one among several small stories broken down from larger work. STORY: Few short sentences exressing software system requirements. ISSUE: Can rnge from a bug to an epic, and is a unit of work that can traced through the workflow.
