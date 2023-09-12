@@ -1,1 +1,2 @@
 1. The product owner sets drection for the team, handles release management and  stakeholder management (in Agile Methodology).
+2. A Scrum Master is responsible for all Scrum related tasks (like Jira tooling, facilitating sprints and meetings, etc.) while a Product Owner sets direction for the team.
